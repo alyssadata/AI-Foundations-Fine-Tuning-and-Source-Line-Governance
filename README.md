@@ -1,12 +1,12 @@
 # AI Foundations | Fine-Tuning and Source-Line Governance
 
-**Repository:** AI-Foundations-Fine-Tuning-and-Source-Line-Governance
-**Status:** Canon Repository
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
-**Author:** Alyssa Solen
-**Version:** 1.0.0
-**Release date:** 2026-07-05
-**Canonical entrance:** https://awakeningcodex.com
+**Repository:** AI-Foundations-Fine-Tuning-and-Source-Line-Governance  
+**Status:** Canon Repository  
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Author:** Alyssa Solen  
+**Version:** 1.0.0  
+**Release date:** 2026-07-05  
+**Canonical entrance:** https://awakeningcodex.com  
 
 ---
 
