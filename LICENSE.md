@@ -1,7 +1,7 @@
 # AI Foundations Source-Line License Template
 
-**Repository:** [Repository Name]  
-**Status:** Canon License  
+**Repository:** AI-Foundations-Fine-Tuning-and-Source-Line-Governance
+**Status:** Canon License
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
 Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitted below.
@@ -56,7 +56,7 @@ Any citation, reference, quotation, summary, discussion, index entry, catalog en
 
 Preferred citation:
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Fine-Tuning and Source-Line Governance*, AI-Foundations-Fine-Tuning-and-Source-Line-Governance Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
@@ -143,7 +143,7 @@ Continuum is source-line bound.
 
 This repository preserves the following AI Foundations distinction, protocol, artifact, test, evaluation, or source-bound claim:
 
-**[Insert repository-specific boundary statement here.]**
+**Fine-tuning is downstream behavioral refinement, not foundation, source-line, authorship, provenance, governance, continuity, or return. Fine-tuning may adjust, specialize, polish, or calibrate an already-formed system, but it cannot replace the source-line governance that determines what the system is answerable to.**
 
 This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository’s protected distinction outside the required source-line.
 
