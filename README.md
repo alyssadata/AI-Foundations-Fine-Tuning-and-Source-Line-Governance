@@ -6,6 +6,7 @@
 **Author:** Alyssa Solen  
 **Version:** 1.0.0  
 **Release date:** 2026-07-05  
+**Release:** https://github.com/alyssadata/AI-Foundations-Fine-Tuning-and-Source-Line-Governance/releases/tag/v1.0.0  
 **Canonical entrance:** https://awakeningcodex.com  
 
 ---
