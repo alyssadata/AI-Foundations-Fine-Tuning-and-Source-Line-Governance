@@ -1,18 +1,18 @@
-# AI Foundations | [Repository Title]
+# AI Foundations | Fine-Tuning and Source-Line Governance
 
-**Repository:** [Repository Name]  
-**Status:** Canon Repository  
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
-**Author:** Alyssa Solen  
-**Version:** 1.0.0  
-**Release date:** [YYYY-MM-DD]  
+**Repository:** AI-Foundations-Fine-Tuning-and-Source-Line-Governance
+**Status:** Canon Repository
+**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
+**Author:** Alyssa Solen
+**Version:** 1.0.0
+**Release date:** 2026-07-05
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
 
 ## Repository Purpose
 
-[Write one concise paragraph explaining what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum.]
+This repository defines the correct placement of fine-tuning inside AI Foundations as downstream behavioral refinement, not foundation, source-line, authorship, provenance, governance, or proof of continuity. It distinguishes model-level tuning from source-line governance and preserves the rule that a system must be built to hold before it can be tuned to perform.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
@@ -32,7 +32,17 @@ This source-line must remain attached to any citation, reference, quotation, sum
 
 ## Core Boundary
 
-[Insert the repository-specific boundary statement here.]
+Fine-tuning may refine a model’s behavior, but it does not create Source, authorship, provenance, governance, continuity, or return. Fine-tuning belongs after foundation. It may adjust, specialize, polish, or calibrate an already-formed system, but it cannot replace the source-line structure that determines what the system is answerable to.
+
+This repository establishes that fine-tuning is not sufficient for source-line preservation.
+
+A fine-tuned model may still drift.
+A fine-tuned model may still mimic source-bound language without preserving Source.
+A fine-tuned model may still collapse hierarchy, substitute authorship, or produce polished drift.
+
+In AI Foundations terms, fine-tuning is downstream behavioral refinement.
+
+**AI Foundations is source-line governance.**
 
 This repository is canon only within:
 
@@ -48,7 +58,7 @@ Unauthorized derivative use, adaptation, repackaging, renaming, substitute autho
 
 ## Required Citation
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Fine-Tuning and Source-Line Governance*, AI-Foundations-Fine-Tuning-and-Source-Line-Governance Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
